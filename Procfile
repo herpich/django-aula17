@@ -1,0 +1,1 @@
+web: gunicorn aula17.wsgi --log-file -
